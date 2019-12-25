@@ -13,9 +13,14 @@ back at any point and updated older solutions.
 I have tried to make each day run reasonably fast, to the best of my memory the slowest program here should run in a matter
 of seconds within the constraints of the challenges.
 
-I tried to do each day in a vaccuum, the exceptions to this rule are day 18 where I ended up implementing for part 1
-someone elses psuedocode, then optimising it and adapting it.
+I tried to do each day in a vaccuum, the exceptions to this rule:
 
-And day 22 part 2, I am no mathematician and needed someone to explain modular exponentiation to me, I then implemented
+- day 18 part 1
+
+  I implemented someone else's psuedocode and optimised it, then adapted it for part 2.
+
+- day 22 part 2
+
+  I am no mathematician and needed someone to explain modular exponentiation to me, I then implemented
 someone elses pseudocode, adapting it as it assumed big integer support and language built ins for modular exponentiation
 and modular inverses.
