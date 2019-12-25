@@ -13,7 +13,7 @@ back at any point and updated older solutions.
 I have tried to make each day run reasonably fast, to the best of my memory the slowest program here should run in a matter
 of seconds within the constraints of the challenges.
 
-I tried to do each day in a vaccuum, the exceptions to this rule:
+I tried to do each day in a vacuum, the exceptions to this rule:
 
 - day 18 part 1
 
